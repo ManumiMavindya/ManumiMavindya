@@ -1,4 +1,4 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/ManumiMavindya/ManumiMavindya/blob/main/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas%20(1).gif" width = 50px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/ManumiMavindya/ManumiMavindya/blob/main/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas%20(1).gif" width = 200px></picture></p>
 
 <h1 align="center" >Hi 👋, I'm Manumi Mavindya</h1>
 <p align="center">
